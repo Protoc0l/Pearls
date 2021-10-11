@@ -14,7 +14,7 @@ Within the application Chuck open the module entitled [Clinical Pearls]:
 3) If GitHub has been installed alreaddy then another button will appear directing you to link GitHub to your User Role inside Chuck and your full path to the Main Directory/Folder structure described above. 
 3) If GitHub & your account & folder structures have all be set up there will be a bitton entitled "Settings" which will enable you to change any of the items you input into steps 1 & b above.
 
-Using [Clinical Pearls] Module Inside CHuck:
+Using [Clinical Pearls] Module Inside Chuck:
 - This can be done by either using:
 1) Jarvis search bar inside the main taskbar - note: using the symobl [;] before your word will eliminate all non-clincal pearl entries thus showing only clinical pearls.
 2) Opening [Clinical Pearls] module inside Chuck and using the search bar at the top to select a clinical pearl.
